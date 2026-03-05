@@ -1,0 +1,29 @@
+# Node modules
+/node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+dist/
+build/
+
+# Dependency directories
+jspm_packages/
+
+# Optional npm cache directory
+.npm
+
+# dotenv environment variables
+.env
+
+# VSCode settings
+.vscode/
+
+# Mac / Windows
+.DS_Store
+Thumbs.db
+
+# History folder
+.history/
